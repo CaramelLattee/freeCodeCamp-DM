@@ -1,0 +1,11 @@
+*{
+    background-color: rgba(243, 82, 235, 0.5);
+    color: blue;
+    text-align: center;
+}
+button {
+    background-color: black;
+    border: 1px auto red;
+    border-radius: 50%;
+    color: wheat;
+}
